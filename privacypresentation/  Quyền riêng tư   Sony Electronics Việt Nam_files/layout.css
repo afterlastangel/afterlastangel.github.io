@@ -1,0 +1,637 @@
+/* Start Page Content Area */
+#PgContent {
+	clear:both; width: auto; padding:0px; margin:0px;}
+
+#PgContentArea {
+	clear:both; width: auto; padding:12px 12px 15px 12px;}
+	
+#PgContent .left {
+	float:left; width:172px; margin-right:11px;}
+
+#PgContent .PageContentArea {
+	float:left; width:723px;}
+
+#PgContent .PageContenthder {
+	clear:both; padding:0px; margin:0px; display:block; overflow:hidden;}
+	
+#PgContent .PageContentMiddle {
+	clear:both; background:#FFFFFF; }	  
+
+#PgContent .Bridgecenter {
+	float:left; width:500px;}
+
+#PgContent .Bridgeright {
+	float:right; width:210px; margin:0px 0px 0px 11px; display:Fblock; overflow:hidden;}
+
+
+#PgContent .center {
+	float:left; width:540px;}
+
+#PgContent .right {
+	float:right; width:172px; margin:0px 0px 0px 11px; display:block; overflow:hidden;}
+
+
+
+.PgGrnt {
+	clear:both;}
+
+
+
+/* Start Page Heading */
+.pgheaderimg {
+	clear: both; padding:0px}
+	
+.pgheaderimg img{
+	width:540px; height:146px; border:0px;}
+	
+.Pgheading {
+	clear: both; height:33px; background: url(/HP/images/layout/default/pgheading_right.jpg) no-repeat top right; padding:0px; display:block; overflow:hidden;}
+	
+.Pgheading h2 {
+	float:left; width:520px; background: url(/HP/images/layout/default/pgheading_left.jpg) no-repeat top left; margin:0px; display:block; padding:0px 0px 0px 10px; height:33px; font-weight:normal; font-family: Tahoma; font-size:20px; color:#666666;}
+
+.Pgheading p {
+	float:right; margin:0px; width:0px; text-align:right; font-family: Tahoma; font-weight:bold; font-size: 9px; color: #333333; line-height:13px; padding:2px 10px 0px 0px;}
+
+
+
+/* Start Bread Crumb */
+.bc {
+	clear: both; font-family: Tahoma; color: #666666; font-size: 10px; padding: 7px 0px 7px 10px;  border-bottom:1px solid #cccccc; margin-bottom:10px; display:block;}
+	
+.bc A{
+	font-size: 10px; color: #0066CC; text-decoration:none;}
+
+.bc A:hover{
+	text-decoration:underline;}
+
+.CmpagePgbc {
+	clear: both; font-family: Tahoma; color: #666666; font-size: 10px; padding: 7px 10px 7px 10px; line-height:15px; margin-bottom:15px;}
+	
+.CmpagePgbc A{
+	font-size: 10px; color: #0066CC; text-decoration:none;}
+
+.CmpagePgbc A:hover{
+	text-decoration:underline;}
+
+.pghighlights{
+	clear: both; font-family: Tahoma; font-size: 10px; font-weight:bold; color: #333333;}
+
+
+/* Start Inner Header */
+#innerheading {
+	clear: both; width:auto; background: url(/HP/images/layout/default/innerheading_bg.jpg) repeat-x bottom left; height:26px; border:1px solid #cccccc; margin-bottom:10px; margin-right:0px;}
+
+#innerheading p{
+	font-weight:bold; float:left; font-family: Tahoma; font-size: 12px; color: #333333; margin:0px; border:0px; padding:3px 0px 0px 10px;}
+
+#innerheading p a{
+	color: #333333; text-decoration:none;}
+
+#innerheading p a:hover{
+	color: #333333; text-decoration:none;}
+
+#innerheading img{
+	float:right; padding:0px 10px 0px 0px; border:0px; margin:3px 0px 3px 0px;}
+
+
+/* Start No Inner Header */
+#noinnerheading {
+	clear: both; width:auto; margin-bottom:10px; margin-right:10px; height:15px; }
+
+#noinnerheading p{
+	font-weight:bold; float:left; font-family: Tahoma; font-size: 12px; color: #333333; margin:0px; border:0px; padding:3px 0px 0px 0px;}
+
+#noinnerheading p a{
+	color: #333333; text-decoration:none;}
+
+#innerheading p a:hover{
+	color: #333333; text-decoration:none;}
+
+
+/* Start RightSide Widget */
+.wtbbanner {
+	clear: both; margin-bottom:6px; padding:0px; border:0px;}
+
+.wtbbanner img{
+	width:172px; border:0px;}
+
+.rsbanner  {
+	clear: both; margin-bottom:6px; padding:0px; border:0px;}
+
+.rsbanner img{
+	width:172px; border:0px;}
+
+#rswidget {
+	clear: both; width:172px; margin-bottom:6px; padding:0px; border:0px;background-color:#FFFFFF;}
+
+#rswidget .icons {
+	float:left; margin:0px; padding:0px; border:0px; width:60px; text-align:center;}
+
+#rswidget .icons img{
+	border:0px; line-height:26px; font-size:15px; }
+
+#rswidget .toolstext1 {
+	margin:0px; padding:2px 0px 7px 50px; border:0px; font-family: Tahoma; text-align:left; font-size: 10px; color: #000000;}
+
+#rswidget .toolstext {
+	margin:0px; padding:0px 0px 7px 50px; border:0px; font-family: Tahoma; text-align:left; font-size: 10px; color: #000000;}
+
+#rswidget .toolstext A{
+	color: #000000; text-align:left; text-decoration:none;}
+
+#rswidget .toolstext A:hover{
+	color: #000000; text-align:left; text-decoration:underline;}
+
+#rswidget .hding {
+	margin:0px; padding:0px 0px 6px 0px; border:0px; text-align:left; font-family: Tahoma; font-size: 11px; font-weight:bold; color: #4070a1; visibility:visible; height:15px;}
+
+#rswidget .prodesc {
+	margin:0px; padding:0px 0px 4px 0px; border:0px;}
+
+#rswidget .prodesctable{
+	width:145px; border:0px;}
+
+#rswidget .prodescimgtd{
+ width:45px; height:37px; text-align:left; vertical-align:top; padding-right:5px;}
+
+#rswidget .prodescimgtd img{
+ border: 1px solid #D0D0D0; width:45px; height:37px; margin:0px 0px 0px 0px}
+
+#rswidget .prodeschdtd {
+	text-align:left; vertical-align:middle; font-family: Tahoma; font-size: 9px; font-weight:bold; color: #666666;}
+
+#rswidget .prodeschdtd A{
+	color: #666666; text-decoration:none;}
+
+#rswidget .prodeschdtd A:hover{
+	color: #666666; text-decoration:underline;}
+
+#rswidget .prodesctxt {
+	margin:0px; padding-top:3px; border:0px; text-align:left; font-family: Tahoma; font-size: 9px; color: #666666;}	
+
+#rswidget .prodiv {
+	margin:0px; padding:8px 0px 8px 0px; border:0px;}
+	
+
+.SupportRightimg {
+	Float:Left; width:45px;; padding-right:5px; margin:0px; border:0px;}
+
+.SupportRightimg img{
+	border:0px; width:40px; height:37px; padding:5px 0px 5px 0px;}
+
+#SupportRightNav {
+	Float:Left; width:100px; padding:0px; margin:0px; border:0px; VISIBILITY: visible; OVERFLOW: hidden;}
+
+#SupportRightNav A {
+	margin:0px; border:0px; display: block; text-align:left; text-decoration:none; font-family:Tahoma; font-size:10px; color:#666666; line-height:16px; font-weight:bold;}
+	
+#SupportRightNav UL LI A {
+	clear: left; padding-right: 3px; padding-left:6px; padding-top:0px;	padding-bottom:1px;	line-height: 14px;}
+
+#SupportRightNav UL LI A:hover {
+	text-decoration:underline;}
+
+#SupportRightNav UL {
+	clear: both; padding:0px; margin:0px;}
+
+#SupportRightNav UL LI {
+	background: url(/HP/images/common/icon_linkarrow.gif) no-repeat 2px 8px; padding-right: 0px; padding-left:10px; padding-top: 0px; padding-bottom:0px; margin:0px; list-style-type:none;}
+
+#IncontentBlcok1 {
+	padding-left:10px; padding-right:10px; padding-top:6px; padding-bottom:2px;}
+
+
+
+#more {
+	text-align:right; clear: both; padding:1px 6px 3px 0px; line-height:12px; font-size:10px; font-weight:bold; font-family:Tahoma;}
+
+#more A {
+	text-decoration:none; color:#4070a1;}
+
+#more A:hover{
+	text-decoration:underline; color:#4070a1;}
+
+.BacktoTop {
+	clear: both; padding:0px 5px 10px 0px; margin:0px; text-align:right;}
+
+.BacktoTop img{
+	border:0px;}
+
+
+/* Start iFrame implementation - no left nav */
+#PgContent.iframeExpandContent .PageContentArea, #PgContent.expandContent .PageContentArea {width:896px;}
+#PgContent.iframeExpandContent .center, #PgContent.ExpandContent .center  {width:692px; padding-left:8px;}
+#PgContent.iframeExpandContent .bc, #PgContent.expandContent .bc {margin:0px 0px 10px 0px; padding:0px; border:none; font-weight:bold;}
+#PgContent.iframeExpandContent .PageHeaderText, #PgContent.expandContent .PageHeaderText {font-size:22px; font-weight:normal; font-family:tahoma; clear:both; padding-top:10px; padding-bottom:15px;}
+#PgContent.iframeExpandContent .pgheaderimg img, #PgContent.expandContent .pgheaderimg img  {width:692px; height:auto; padding-bottom:10px;*margin-bottom:10px;}
+#PgContent.iframeExpandContent .rswidget, #PgContent.expandContent .rswidget {padding:12px 0px;}
+#PgContent.iframeExpandContent .rswidget *, #PgContent.expandContent .rswidget * {padding:0px; margin:0px; font-family:tahoma;}
+#PgContent.iframeExpandContent .rswidget h1, #PgContent.iframeExpandContent .rswidget h2, #PgContent.iframeExpandContent .rswidget h3,
+#PgContent.iframeExpandContent .rswidget p, #PgContent.iframeExpandContent .rswidget ul, #PgContent.iframeExpandContent .rswidget ol,
+#PgContent.expandContent .rswidget h1, #PgContent.expandContent .rswidget h2, #PgContent.expandContent .rswidget h3, 
+#PgContent.expandContent .rswidget p, #PgContent.expandContent .rswidget ul, #PgContent.expandContent .rswidget ol {padding-bottom:5px;}
+#PgContent.iframeExpandContent .rswidget li, #PgContent.expandContent .rswidget li {padding:1px 0px;}
+#PgContent.iframeExpandContent .rswidget .BodyText, #PgContent.expandContent .rswidget .BodyText {font-size:11px;}
+#PgContent.iframeExpandContent .rswidget .LargeText, #PgContent.expandContent .rswidget .LargeText{font-size:13px;}
+#PgContent.iframeExpandContent .rswidget .LargeText p a, #PgContent.expandContent .rswidget .LargeText p a{color:#0066CC; text-decoration:none;}
+#PgContent.iframeExpandContent .rswidget .LargeText p a:hover, #PgContent.expandContent .rswidget .LargeText p a:hover{color:#000; text-decoration:underline;}
+#PgContent.iframeExpandContent .rswidget .SmallText, #PgContent.expandContent .rswidget .SmallText{font-size:10px;}
+#PgContent.iframeExpandContent .rswidget a, #PgContent.expandContent .rswidget a {text-decoration:none;}
+#PgContent.iframeExpandContent .rswidget a:hover, #PgContent.expandContent .rswidget a:hover{text-decoration:underline;}
+#PgContent.iframeExpandContent #rstools .toolsrow2 {float:left; padding-top:1px;}
+#PgContent.expandContent .CorporateBlock, #PgContent.expandContent .SupportInBlock {padding:0px;}
+#PgContent.expandContent .MainBlock, #PgContent.expandContent .MainListBlock {width:690px;}
+
+
+/*strt font resize widget css*/
+#rstools {
+	margin-bottom:6px; padding:0px; border:0px;
+	font-family: tahoma;
+	font-size:9px;
+	color: #000000;
+	padding-left:0px;
+    
+	padding-top:0px;
+	padding-bottom:0px;
+	background-color:#ececec;
+
+}
+
+#rstools .rounded {
+	padding-top:0px; margin-top:0px; margin-bottom:0px;margin-left:0px; margin-right:0px; background-color:#ececec;
+}
+
+#rstools .rc-border{
+	border-right: #d6d6d6 0px solid; border-top: #d6d6d6 1px solid; border-left: #d6d6d6 0px solid; border-bottom: #d6d6d6 1px solid;
+}
+
+#rstools .border-inner {
+	border-right: #d6d6d6 1px solid; border-top: #d6d6d6 0px solid; border-left: #d6d6d6 1px solid; border-bottom: #d6d6d6 0px solid;}
+
+#rstools .rsblock
+{
+    overflow:hidden;
+
+    margin:0px;
+    height:35px;
+}
+
+
+#rstools .adjustfont
+{
+    /*float:left;*/
+    
+    text-align:left; 
+    padding:0;
+    margin:0;
+    white-space:nowrap;
+    margin-bottom:2px;
+    margin-top:0px;
+    margin-left:12px;
+        
+}
+#rstools .adjustfont img
+{
+    padding:0px 0px 0px 0px;
+    margin:0px -1px 0px 0px;
+    border:0;
+
+}
+
+#rstools .adjustfont .adjusticonpanel
+{
+    border:0px;
+    clear:left;
+    float:left;
+}
+
+#rstools .adjustfont .adjusticonpanel .fontsmall
+{
+    width:18px;
+    height:18px;
+    border:0;
+    padding:0px;
+    margin:0px;
+    font-size:0px;
+}
+#rstools .adjustfont .adjusticonpanel .fontmedium
+{
+    width:16px;
+    height:18px;
+    border:0;
+    padding:0px;
+    margin:0px;
+    font-size:0px;
+}
+#rstools .adjustfont .adjusticonpanel .fontlarge
+{
+    width:18px;
+    height:18px;
+    border:0;
+    padding:0px;
+    margin:0px;
+    font-size:0px;
+}
+
+#rstools .adjustfont .adjusttextpanel 
+{
+    float:left;
+    clear:right;
+    text-align:left; 
+    
+    padding-left:5px;
+    border:0px solid red;
+    line-height:18px;
+    
+} 
+#rstools .adjustfont .adjusttextpanel a
+{
+    text-align:left; text-decoration:none; font-size:9px;
+    
+}
+#rstools .adjustfont .adjusttextpanel a:hover
+{
+    text-align:left; text-decoration:underline;font-size:9px;
+    
+}
+
+#rstools .toolsrow2 {
+	padding-top: 2px;
+	vertical-align:middle;
+	clear: both;
+}
+
+
+#rstools .toolsrow2 .printtool
+{
+    float:left;
+    clear:left;
+    margin-bottom:0px;
+    margin-left:12px;
+    
+}
+#rstools .toolsrow2 .printtool a, #rstools .toolsrow2 .emailtool a
+{
+    text-align:left; text-decoration:none; color:#000000; font-size:9px; float:left; padding-right:3px; padding-top:1px;
+}
+#rstools .toolsrow2 .printtool a:hover, #rstools .toolsrow2 .emailtool a:hover
+{
+    text-align:left; text-decoration:underline; color:#000000; font-size:9px;
+}
+
+#rstools .toolsrow2 .printtool img, #rstools .toolsrow2 .emailtool img
+{
+    border:0;
+    padding:0;
+    margin:0;
+}
+#rstools .toolsrow2 .printtool .iconpanel
+{
+    float:left;
+    clear:left;
+
+}
+#rstools .toolsrow2 .printtool .textpanel
+{
+    float:left;
+    padding-left:5px;
+    clear:none;
+    border:0px;
+}
+
+#rstools .toolsrow2 .emailtool
+{
+    float:left;
+    margin-left:5px;
+    margin-right:0px;    
+    margin-top:0px;
+}
+
+
+/* Start Button Styles */
+input.button {
+     border:0; background: #fff url(/HP/images/layout/default/button_left.jpg) no-repeat top left; height: 22px; position:relative; cursor:pointer; font-family: Tahoma; font-size: 11px; font-weight:normal; color:#FFFFFF; text-align:center; padding:0px 4px 2px 6px;}
+
+.buttonEnding {
+    position:absolute; display:inline; margin-left:-2px; width:4px; height:22px; background:url(/HP/images/layout/default/button_right.jpg) no-repeat top right; }
+
+input.buttonDisabled {
+     border:0; background: #fff url(/HP/images/layout/default/button_left_gray.jpg) no-repeat top left; height: 22px; position:relative; cursor:pointer; font-family: Tahoma; font-size: 11px; font-weight:normal; color:#FFFFFF; text-align:center; padding:0px 4px 2px 6px;}
+
+/* Start Tab Layout Styles */
+.tabsB a {
+	float:left;	display:block; background:url(/HP/images/layout/default/tableftB.gif) no-repeat left top; margin:0; padding:0 0 0 0px; font-weight:bold;	text-decoration:none;}
+	
+.tabsB a span {
+	float:left; display:block; background:url(/HP/images/layout/default/tabrightB.gif) no-repeat right top; padding:10px 15px 5px 6px; color:#666666;}
+	
+.tabsB a span.white{
+	float:left; display:block; background:url(/HP/images/layout/default/tableftB.gif) no-repeat left top; margin:0; height:27px; padding:0 0 0 4px; font-weight:bold; text-decoration:none;}
+	
+.tabsB a span.orangeleft{
+	float:left; display:block; cursor:hand; background:url(/HP/images/layout/default/tableftB_orange.gif) no-repeat left top; margin:0; height:27px; padding:0 0 0 4px; font-weight:bold; text-decoration:none;}
+
+.tabsB a span.orangeright{
+	float:left;	display:block; cursor:hand; background:url(/HP/images/layout/default/tabrightB_orange.gif) no-repeat right top; padding:10px 15px 5px 6px; color:#ffffff;}
+
+.tabsB a:hover span {
+	color:#32639e; cursor:hand; }
+
+.tabsB li a.current {
+	background-position:0% -103px; color:#32639e;}
+
+.tabsB li a.current span {
+	background-position:100% -103px; color:#32639e;}
+
+/* Start Tab Content Styles */
+
+.ModelTabHding {
+	color:#336699;}
+
+.ModelTabtxtbd {
+	color:#336699;}
+
+.ModelTabLink {
+	color:#336699;}
+
+.TabAccshder A {
+	color:#336699; text-decoration:none;}
+
+.TabAccshder A:hover{
+	color:#336699; text-decoration:underline;}	
+
+.TabAccshderOpen {
+	color:#666666;}
+
+.TabTechRighthd {
+	color:#336699;}
+
+.TabTechRighthd A{
+	color:#336699; text-decoration:none;}
+
+.TabTechRighthd A:hover{
+	color:#336699; text-decoration:underline;}		
+
+.TabPromRighthd {
+	color:#336699;}
+	
+.TabPromRighthd A{
+	color:#336699; text-decoration:none;}
+
+.TabPromRighthd A:hover{
+	color:#336699; text-decoration:underline;}		
+	
+	
+
+/* ---- Pop-up pages styles ---- */
+.Popupbgcolor {
+	width:100%; background-color:#FFFFFF; text-align:left;}
+
+.Popupheaderbrdr {
+	border-bottom:#cccccc solid 1px;}
+	
+.ImageViewBlock { 
+	height:500px; padding:10px 10px 10px 10px; font-family:Tahoma; font-size:11px; color:#666666;}
+	
+.RSSExContentArea {padding:15px 15px 15px 15px; font-family:Tahoma; font-size:11px; color:#666666;}
+
+
+
+/* Product In the Same Range*/	
+
+#rsProSameRangewidget {
+	clear: both; width:172px; margin-bottom:6px; padding:0px; border:0px;}	
+
+#rsProSameRangewidget .icons {
+	float:left; margin:0px; padding:0px; border:0px; width:40px; text-align:center;}
+
+#rsProSameRangewidget .icons img{
+	border:0px;}
+
+#rsProSameRangewidget .toolstext {
+	margin:0px; padding:0px 0px 7px 50px; border:0px; font-family: Tahoma; text-align:left; font-size: 10px; color: #336699;}
+
+#rsProSameRangewidget .toolstext A{
+	color: #336699; text-align:left; text-decoration:none;}
+
+#rsProSameRangewidget .toolstext A:hover{
+	color: #336699; text-align:left; text-decoration:underline;}
+
+#rsProSameRangewidget .hding {
+	margin:0px; padding:0px 0px 6px 0px; border:0px; text-align:left; font-family: Tahoma; font-size: 10px; font-weight:bold; color: #4070a1;}
+
+#rsProSameRangewidget .prodesc {
+	margin:0px; padding:0px 0px 4px 0px; border:0px;}
+
+#rsProSameRangewidget .prodesctable{
+	width:145px; border:0px;}
+
+#rsProSameRangewidget .prodescimgtd{
+ width:45px; height:37px; text-align:left; vertical-align:top; padding-right:5px;}
+
+#rsProSameRangewidget .prodescimgtd img{
+ border: 1px solid #D0D0D0; width:45px; height:37px; margin:0px 0px 0px 0px;}
+
+#rsProSameRangewidget .prodeschdtd {
+	text-align:left; vertical-align:middle; font-family: Tahoma; font-size: 9px; font-weight:bold; color: #666666;}
+
+#rsProSameRangewidget .prodeschdtd A{
+	color: #666666; text-decoration:none;}
+
+#rsProSameRangewidget .prodeschdtd A:hover{
+	color: #666666; text-decoration:underline;}
+
+#rsProSameRangewidget .prodesctxt {
+	margin:0px; padding-top:3px; border:0px; text-align:left; font-family: Tahoma; font-size: 9px; color: #666666;}	
+
+#rsProSameRangewidget .prodiv {
+	margin:0px; padding:8px 0px 8px 0px; border:0px;}
+	
+	
+	
+	
+	
+		
+
+	
+
+.CatQuickLinkBlock {
+	clear:both; padding-bottom:10px; text-align:center; padding-left:5px; display:block; }
+	
+.SupCatQuickLinkBlock {
+	float:left;	 width:165px;  margin:0px 5px 0 5px; padding-bottom:10px; }
+
+.SupCatQuickLinkBlock .HeightControl { 
+	height:auto;}
+
+.SupQuickNavhder{
+	width:165px; height:26px; background-image:url(/HP/images/layout/default/sup_hding_bg.jpg); vertical-align:middle;}
+
+.SupQuickNavhder .LeftNavhderleft{
+	width:157px;  height:26px; background:url(/HP/images/layout/default/sup_hding_left.jpg) left top no-repeat;}
+
+.SupQuickNavhder .LeftNavhderright{
+   width:8px;  height:26px; background:url(/HP/images/layout/default/sup_hding_right.jpg) right top no-repeat;}
+
+
+#SupQuickNavBg {
+	background-color:#FFFFFF;}
+	
+.SupQuickLinkhdr {
+	font-family:Tahoma; font-size:11px; line-height:25px; font-weight:bold; color:#FFFFFF;}
+	
+	
+	
+	
+	
+/* Inline Popup Styles - Added on 2007/06/29 */	
+	
+/* For IE Browser*/
+.InlineWindowposition {
+	position:absolute; text-align:center; top:380px; z-index:1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-10px;}
+
+/* For Firefox Browser*/
+html>body .InlineWindowposition {
+	position: absolute; text-align:center; top: 380px; z-index: 1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-10px;}
+
+/* For IE Browser*/
+.InlineWindowpositionEnlarge {
+	position: absolute; text-align:center; top: 380px; z-index: 1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-10px;}
+
+/* For Firefox Browser*/
+html>body .InlineWindowpositionEnlarge {
+	position: absolute; text-align:center; top: 380px; z-index: 1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-10px;}
+
+/* For IE Browser*/
+.InlineWindowpositionFreeGift {position:absolute; top:380px; z-index:1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-245px;}
+ 
+/* For Firefox Browser*/
+html>body .InlineWindowpositionFreeGift {position:absolute; top:380px; z-index:1000; background: url(/HP/images/common/shadow.png) repeat !important; margin-left:-255px;}  
+
+/* End Inline PopUp Styles */
+
+.WordWrapLayer {
+clear:both;
+}
+
+
+
+/* Product Landing Revamp */
+.prodLandingContent {font-size:12px; font-family:Tahoma;}
+.prodLandingContent #innerheading {border:none !important; background:none !important; float:left; height:auto !important; margin-top:10px; margin-bottom:15px !important;}
+.prodLandingContent #innerheading p{font-size:18px;}
+.prodLandingContent .ProductsSelect{padding-bottom:30px; float:left; width:900px;}
+.prodLandingContent .row {padding:5px 10px 15px; float:left; width:880px;}
+.prodLandingContent .row .secHead a {height:40px; display:table; text-decoration:none; color: #000;}
+.prodLandingContent .row .secHead a img {vertical-align:middle; height:40px; border:none;}
+.prodLandingContent .row .secHead a strong {padding-left:8px; display:inline-block; width:152px; line-height:14px; vertical-align:middle;}
+.prodLandingContent .row .secHead a:hover{text-decoration:none !important; color:#0066cc;}
+.prodLandingContent .row ul {padding:0px; margin:0px;}
+.prodLandingContent .row li {list-style-type:none; list-style-position:outside;}
+.prodLandingContent .row li a {color:#0066cc; text-decoration:none}
+.prodLandingContent .row li a:hover {text-decoration:underline}
+.prodLandingContent .row li.prodCats {width:210px; float:left; padding:0px 5px;}
+.prodLandingContent .row ul.list {padding:4px 5px 8px;}
+.prodLandingContent .row ul.list li {background:url(/HP/images/layout/default/arrow_bullet.gif) 0px 5px no-repeat; padding:0px 0px 0px 12px;}
+

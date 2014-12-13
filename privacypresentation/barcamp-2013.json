@@ -1,0 +1,972 @@
+{
+  "slides": [
+    {
+      "num": 0,
+      "components": [
+        {
+          "src": "http://info.singtel.com/android/images/apps/Gmail_icon.png",
+          "type": "Image",
+          "x": 195,
+          "y": 179,
+          "scale": {
+            "x": 0.31640625,
+            "y": 0.31640625,
+            "width": 162,
+            "height": 162
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 108,
+          "y": 38,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">What do you do everyday?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://files.softicons.com/download/system-icons/windows-8-metro-invert-icons-by-dakirby309/png/256x256/Internet%20Shortcuts%20&%20Manufacturers/Bing.png",
+          "type": "Image",
+          "x": 182,
+          "y": 343,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://si0.twimg.com/profile_images/3513354941/24aaffa670e634a7da9a087bfa83abe6.png",
+          "type": "Image",
+          "x": 461,
+          "y": 269,
+          "scale": {
+            "x": 0.36328125,
+            "y": 0.36328125,
+            "width": 93,
+            "height": 93
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn1.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/256/social_twitter_box_blue.png",
+          "type": "Image",
+          "x": 418,
+          "y": 542,
+          "scale": {
+            "x": 0.4375,
+            "y": 0.4375,
+            "width": 112,
+            "height": 112
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.hdicon.com/wp-content/uploads/2013/03/skype_2013.png",
+          "type": "Image",
+          "x": 628,
+          "y": 208,
+          "scale": {
+            "x": 0.44666666666666666,
+            "y": 0.44666666666666666,
+            "width": 134,
+            "height": 134
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://si0.twimg.com/profile_images/1587267312/Logo-VNE-_Converted_.jpg",
+          "type": "Image",
+          "x": 721,
+          "y": 394,
+          "scale": {
+            "x": 0.26018099547511314,
+            "y": 0.26018099547511314,
+            "width": 115.00000000000001,
+            "height": 130.09049773755657
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://dc942d419843af05523b-ff74ae13537a01be6cfec5927837dcfe.r14.cf1.rackcdn.com/wp-content/uploads/Android-logo-50x50.png",
+          "type": "Image",
+          "x": 519,
+          "y": 434,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": true,
+      "active": true,
+      "x": 33,
+      "y": 49
+    },
+    {
+      "num": 1,
+      "components": [
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/en/8/8e/PRISM_logo.png",
+          "type": "Image",
+          "x": 219,
+          "y": 312,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 69,
+          "y": 74,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Have you ever think<br>they know who you are</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 288,
+      "y": 49
+    },
+    {
+      "num": 2,
+      "components": [
+        {
+          "src": "http://cdn.business2community.com/wp-content/uploads/2013/04/customer-service-people.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 35,
+          "scale": {
+            "x": 0.998,
+            "y": 0.998,
+            "width": 998,
+            "height": 399.2
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 22,
+          "y": 467,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">There are 2.400.000.000 user&nbsp;</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 578,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">How they know each one?</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 285,
+      "y": 217
+    },
+    {
+      "num": 3,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 37,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Traditionally ask you to login</font><br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "src": "http://customers.agriya.com/files/product/image/feature/social%20nw%20conn_5066b8071b606.JPG",
+          "type": "Image",
+          "x": 287,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 214,
+          "y": 528,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">But they still know <br>after you logout</font><br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 31,
+      "y": 243
+    },
+    {
+      "num": 4,
+      "components": [
+        {
+          "src": "http://25.media.tumblr.com/661954c297e9f00da0726c161c35cb87/tumblr_mkajl319YD1s9yt1no1_1280.png",
+          "type": "Image",
+          "x": 212,
+          "y": 158,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 296,
+          "y": 53,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Via cookie</font><br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 565,
+      "y": 394
+    },
+    {
+      "num": 5,
+      "components": [
+        {
+          "src": "http://i.imgur.com/0WkkR6d.png",
+          "type": "Image",
+          "x": 21,
+          "y": 15,
+          "scale": {
+            "x": 1.696517412935323,
+            "y": 1.696517412935323,
+            "width": 681.9999999999999,
+            "height": 568.3333333333333
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/vik2dAs.png",
+          "type": "Image",
+          "x": 309,
+          "y": 15,
+          "scale": {
+            "x": 1.6108374384236452,
+            "y": 1.6108374384236452,
+            "width": 654,
+            "height": 431.7044334975369
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 197,
+          "y": 623,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">What is difference?</font><br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 557,
+      "y": 212
+    },
+    {
+      "num": 6,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 171,
+          "y": 22,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Do you like if they know&nbsp;</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/djEfcqr.png",
+          "type": "Image",
+          "x": 249,
+          "y": 129,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 167,
+          "y": 626,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "even when you don't like<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 801,
+      "y": 394
+    },
+    {
+      "num": 7,
+      "components": [
+        {
+          "src": "http://i.imgur.com/VoSeNv6.png",
+          "type": "Image",
+          "x": 41,
+          "y": 183,
+          "scale": {
+            "x": 1.437689969604863,
+            "y": 1.437689969604863,
+            "width": 945.9999999999999,
+            "height": 201.27659574468083
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 156,
+          "y": 33,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">They use simple image</font><br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 110,
+          "y": 421,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\">With a lot of data</div>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 129,
+          "y": 554,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "cookie, IP Address, <br>user agent, OS, first, last time visit&nbsp;<br>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 803,
+      "y": 218
+    },
+    {
+      "num": 8,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 6,
+          "y": 23,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Even you clear or delete cookie</font>",
+          "size": 71,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 102,
+          "y": 129,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">They can combine:&nbsp;<br>- IP Address range<br>- Computer Config.&nbsp;<br>- User behaviour.<br><br>To link you into a profile&nbsp;<br></font>",
+          "size": 71,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 564,
+      "y": 46
+    },
+    {
+      "num": 9,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 109,
+          "y": 479,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Google fined $22.5 million <br>for Safari tracking<br>",
+          "size": 72,
+          "selected": false,
+          "active": false
+        },
+        {
+          "src": "http://googledontbeevil.com/letter/images/google-dont-be-evil.gif",
+          "type": "Image",
+          "x": 221,
+          "y": 109,
+          "scale": {
+            "x": 1.9927536231884058,
+            "y": 1.9927536231884058,
+            "width": 550,
+            "height": 269.02173913043475
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 799,
+      "y": 38
+    },
+    {
+      "num": 10,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 49,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">- Your name, email address,<br>&nbsp;phone number&nbsp;have been&nbsp;<br>used for confirmation.&nbsp;<br><br>- They know what you enter on you profile.<br>your post,&nbsp;&nbsp;your position, your career, <br>your home,&nbsp;your favorite place, your friend<br>your family, your pet.<br><br>And other things with your behaviour<br></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1052,
+      "y": 36
+    },
+    {
+      "num": 14,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 67,
+          "y": 27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">They have million of servers</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://2.bp.blogspot.com/-Mm8hrZccbPc/T-kioM4MkZI/AAAAAAAABTE/xYUpdcK8f2o/s320/hadoop+elephant_rgb.png",
+          "type": "Image",
+          "x": 161,
+          "y": 375,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://www.veodin.com/wp-content/uploads/2012/08/hive.png",
+          "type": "Image",
+          "x": 591,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://siliconangle.com/files/2011/11/mahout_logo.png",
+          "type": "Image",
+          "x": 125,
+          "y": 176,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 498,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">To analyze big data<br>Thanks&nbsp;<br>Free Libre Opensource software<br></font>",
+          "size": 59,
+          "selected": false,
+          "active": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1045,
+      "y": 206
+    },
+    {
+      "num": 12,
+      "components": [
+        {
+          "src": "http://i.imgur.com/Rn515U6.png",
+          "type": "Image",
+          "x": 170,
+          "y": 195,
+          "scale": {
+            "x": 1.2623853211009175,
+            "y": 1.2623853211009175,
+            "width": 688,
+            "height": 541.5633027522936
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 168,
+          "y": 7,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Have you ever enter<br>&nbsp;an contest and lottery<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1046,
+      "y": 395
+    },
+    {
+      "num": 11,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 381,
+          "y": 24,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">And care about<br>the privacy policy?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 18,
+          "y": 380,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu, sans-serif;\">You tell them everything</span></div><div style=\"text-align: center;\">And allow them to do anything</div><div style=\"text-align: center;\">without&nbsp;guarantee</div>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 296,
+      "y": 391
+    },
+    {
+      "num": 14,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 200,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Recommendation?</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 76,
+          "y": 164,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu, sans-serif\">Be careful,<br>you are not&nbsp;anonymous</font>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/kZTv8jp.jpg",
+          "type": "Image",
+          "x": 595,
+          "y": 391,
+          "scale": {
+            "x": 0.6192052980132451,
+            "y": 0.6192052980132451,
+            "width": 374.00000000000006,
+            "height": 299.07615894039736
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 24,
+      "y": 397
+    },
+    {
+      "num": 16,
+      "components": [
+        {
+          "TextBox": {},
+          "x": 181,
+          "y": 225,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Thanks for listening<br>and other materials <br>from internet<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 2430,
+      "y": 400
+    },
+    {
+      "num": 15,
+      "components": [],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "selected": false,
+      "active": false,
+      "x": 1308,
+      "y": 197
+    }
+  ],
+  "background": "defaultbg",
+  "activeSlide": {
+    "num": 0,
+    "components": [
+      {
+        "src": "http://info.singtel.com/android/images/apps/Gmail_icon.png",
+        "type": "Image",
+        "x": 195,
+        "y": 179,
+        "scale": {
+          "x": 0.31640625,
+          "y": 0.31640625,
+          "width": 162,
+          "height": 162
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 108,
+        "y": 38,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "<font face=\"Ubuntu, sans-serif\">What do you do everyday?</font>",
+        "size": 72,
+        "selected": false
+      },
+      {
+        "src": "http://files.softicons.com/download/system-icons/windows-8-metro-invert-icons-by-dakirby309/png/256x256/Internet%20Shortcuts%20&%20Manufacturers/Bing.png",
+        "type": "Image",
+        "x": 182,
+        "y": 343,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://si0.twimg.com/profile_images/3513354941/24aaffa670e634a7da9a087bfa83abe6.png",
+        "type": "Image",
+        "x": 461,
+        "y": 269,
+        "scale": {
+          "x": 0.36328125,
+          "y": 0.36328125,
+          "width": 93,
+          "height": 93
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://cdn1.iconfinder.com/data/icons/yooicons_set01_socialbookmarks/256/social_twitter_box_blue.png",
+        "type": "Image",
+        "x": 418,
+        "y": 542,
+        "scale": {
+          "x": 0.4375,
+          "y": 0.4375,
+          "width": 112,
+          "height": 112
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "http://www.hdicon.com/wp-content/uploads/2013/03/skype_2013.png",
+        "type": "Image",
+        "x": 628,
+        "y": 208,
+        "scale": {
+          "x": 0.44666666666666666,
+          "y": 0.44666666666666666,
+          "width": 134,
+          "height": 134
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://si0.twimg.com/profile_images/1587267312/Logo-VNE-_Converted_.jpg",
+        "type": "Image",
+        "x": 721,
+        "y": 394,
+        "scale": {
+          "x": 0.26018099547511314,
+          "y": 0.26018099547511314,
+          "width": 115.00000000000001,
+          "height": 130.09049773755657
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "http://dc942d419843af05523b-ff74ae13537a01be6cfec5927837dcfe.r14.cf1.rackcdn.com/wp-content/uploads/Android-logo-50x50.png",
+        "type": "Image",
+        "x": 519,
+        "y": 434,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "selected": true,
+    "active": true,
+    "x": 33,
+    "y": 49
+  },
+  "fileName": "barcamp-2013"
+}

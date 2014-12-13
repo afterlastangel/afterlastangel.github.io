@@ -1,0 +1,193 @@
+<style>
+
+.snz_textarea
+{
+    FONT-SIZE: 14px;
+    COLOR: #000000;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgeblack
+{
+    FONT-SIZE: 14px;
+    COLOR: #000000;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medblack
+{
+    FONT-SIZE: 11px;
+    COLOR: #000000;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlblack
+{
+    FONT-SIZE: 10px;
+    COLOR: #000000;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgegrey
+{
+    FONT-SIZE: 14px;
+    COLOR: #999999;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medgrey
+{
+    FONT-SIZE: 11px;
+    COLOR: #999999;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlgrey
+{
+    FONT-SIZE: 10px;
+    COLOR: #999999;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgered
+{
+    FONT-SIZE: 14px;
+    COLOR: #dc143c;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medred
+{
+    FONT-SIZE: 11px;
+    COLOR: #dc143c;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_smlred
+{
+    FONT-SIZE: 10px;
+    COLOR: #dc143c;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgeorange
+{
+    FONT-SIZE: 14px;
+    COLOR: #ff6600;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medorange
+{
+    FONT-SIZE: 11px;
+    COLOR: #ff6600;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlorange
+{
+    FONT-SIZE: 10px;
+    COLOR: #ff6600;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgegreen
+{
+    FONT-SIZE: 14px;
+    COLOR: #2e8b57;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medgreen
+{
+    FONT-SIZE: 11px;
+    COLOR: #2e8b57;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlgreen
+{
+    FONT-SIZE: 10px;
+    COLOR: #2e8b57;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgeblue
+{
+    FONT-SIZE: 14px;
+    COLOR: #0000ff;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medblue
+{
+    FONT-SIZE: 11px;
+    COLOR: #0000ff;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlblue
+{
+    FONT-SIZE: 10px;
+    COLOR: #0000ff;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+.snz_lgepink
+{
+    FONT-SIZE: 14px;
+    COLOR: #cc33cc;
+    LINE-HEIGHT: 16px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_medpink
+{
+    FONT-SIZE: 11px;
+    COLOR: #cc33cc;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.snz_smlpink
+{
+    FONT-SIZE: 10px;
+    COLOR: #cc33cc;
+    LINE-HEIGHT: 12px;
+    FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+
+A.snz_link
+{
+  COLOR:#0000ff;
+  TEXT-DECORATION:none;
+}
+
+A.snz_link:visited
+{
+  COLOR:#0000ff;
+  TEXT-DECORATION:none;
+}
+
+A.snz_link:hover
+{
+  COLOR:#0000ff;
+  TEXT-DECORATION:underline;
+}
+
+.cartleft_businesslogo_snz
+{
+	float:left;
+	margin-top:3px;
+	margin-left:16px;
+}
+
+.cartleft_businesslogo_snz a {color:#fff;}
+
+</style>

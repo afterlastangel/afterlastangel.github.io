@@ -1,0 +1,79 @@
+DIV.rounded {
+	padding-top:0px; margin-top:0px; margin-bottom:0px;	margin-left:0px; margin-right:0px; background-color:#f0f0f0;}
+
+DIV.rc-border {
+	border-right: #cbcbcb 0px solid; border-top: #cbcbcb 1px solid; border-left: #cbcbcb 0px solid; border-bottom: #cbcbcb 1px solid;}
+
+DIV.border-inner {
+	border-right: #cbcbcb 1px solid; border-top: #cbcbcb 0px solid; border-left: #cbcbcb 1px solid; border-bottom: #cbcbcb 0px solid;}
+
+
+
+#LeftNav {
+	width: auto; padding:6px 10px 0px 0px; VISIBILITY: visible; OVERFLOW: hidden;}
+
+#LeftNav A {
+	display: block; text-decoration:none; font-family:Tahoma;	font-size:10px;	color:#666666; font-weight:normal;}
+
+#LeftNav UL {
+	clear: both; padding:0px 0px 10px 0px;	margin:0px;}
+
+#LeftNav UL LI {
+	background: url(/HP/images/common/icon_linkarrow.gif) no-repeat 12px 5px;	padding:0px 0px 2px 20px; margin:0px; line-height:5pt; list-style-type:none;}
+	
+#LeftNav UL LI P {
+	 padding:0px 6px 0px 5px; display: block; text-decoration:none; font-family:Tahoma; font-size:10px; color:#666666; font-weight:normal;line-height:13px; margin:0px;}
+	
+#LeftNav UL LI A {
+	display: block; padding:0px 6px 0px 5px; line-height:13px; font-weight:normal;}
+
+#LeftNav UL LI A:hover {
+	text-decoration:underline; line-height:13px; font-weight:normal;}
+	
+#LeftNav a.LeftNavHgl:hover{text-decoration:none;}
+	
+#LeftNav .LeftNavHgl{
+	color:#000000;
+	font-weight:normal;
+	text-decoration:none;
+	}
+
+.LeftNavhder{
+	width:100%; background-image:url(/HP/images/layout/default/leftnav_hding_bg.gif); background-repeat:no-repeat; background-position:top;  border-bottom:#CCCCCC solid 1px; display:block; overflow:hidden; }
+
+.LeftNavhderleft{
+	float:left; width:150px;}
+
+.LeftNavhderright{
+	float:right; width:auto; text-align:right;}
+
+#SubLeftNav {
+	width: auto; padding:2px 8px 0px 10px; margin-bottom:5px; color:#666666;}
+
+#SubLeftNav A {
+	color:#386CA8; text-decoration:none; padding:0px 3px 0px 25px; line-height:13px; font-weight:normal;}
+
+#SubLeftNav A:hover {
+	text-decoration:underline;}
+
+#SubLeftNav A.LeftNavHgl:hover {
+	text-decoration:none;}
+
+.producthdr {
+	font-family:Tahoma; font-size:11px; font-weight:bold; color:#666666; padding:8px 8px 8px 12px; display:block;}
+
+#leftwidget {
+	margin-bottom:6px;background-color:#ffffff;}
+
+#IncontentBlcok {
+	padding-left:10px; padding-right:10px; padding-top:12px; padding-bottom:12px;}
+
+
+.SubLeftNav1 {
+	width: auto; margin:0px; margin-top:5px; color:#666666;}
+
+.SubLeftNav1 A {
+	color:#666666; text-decoration:none; padding-left:25px; margin-bottom:3px;}
+
+.SubLeftNav1 A:hover {
+	text-decoration:underline;}

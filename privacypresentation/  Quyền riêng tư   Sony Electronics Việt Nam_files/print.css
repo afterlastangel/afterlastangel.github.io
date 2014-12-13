@@ -1,0 +1,301 @@
+body { padding-left:0px; padding-top:0px;background-color:#ffffff; padding-bottom:20px; text-align:center;  margin:0 auto; }
+
+#PrintHeaderSection {
+	background-color:#ffffff; 
+	width: auto; 
+	padding:0px;
+	margin-top:0px;
+	overflow:hidden;
+	height:60px;
+	position:relative;
+
+}
+
+#PrintHeaderSection .logo {
+	height:auto;
+	padding-left:0px;
+	float:left;
+}
+
+#PrintHeaderSection .logo .countryname
+{
+    font-family: Tahoma;
+    font-weight:bold;
+    font-size:17px;
+    color:#000000;
+    vertical-align:middle;
+    line-height:27px;
+    padding-left:2px;
+}
+
+#PrintHeaderSection .logo .corplogo
+{
+    padding-left:20px;
+	padding-right:21px;
+}
+
+#PrintHeaderSection .logo .corplogodivided
+{
+	width:6px;
+	height:61px;
+	margin-top:0px;
+	padding-top:0px;
+	padding-right:8px;
+	display:inline;
+}
+
+#PrintHeaderSection .logo img
+{
+    border:0px;
+    vertical-align:middle;
+}
+
+#PgContent .PageContenthder { width:630px;}
+ 
+#PgContent .PageContentArea { float:right; width:630px; }
+
+#PgContent { text-align:left; clear:both; }
+
+#PgContent .center {	float:left; width:630px;}
+
+#PgContent .PageContentMiddle { clear:both;}	  
+
+#PgContent .left{ display:none;}
+
+#PgContent .right { display:none; }
+
+.pagecenter { float:left; width:650px; }
+
+.PageContentArea { background:none; }
+
+.PopUpWindowBlock { MARGIN: 0px auto; WIDTH:650px; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: center;}
+
+.MainBlock { clear:both; display:block; margin-bottom:10px; overflow:hidden; width:610px; }
+
+.MainBlock .RightBlock { margin:0px; }
+
+#PgContentArea{	text-align:left; clear:both; padding-top:0px; margin:0px; width:auto; }
+
+html > body #PgContentArea { clear:both; margin:0px; padding-top:10px; text-align:left; width:auto; }
+
+.CountryText { float:right; }
+
+.baselayout { background:none; }
+	
+.CompareButton {	display:none; }
+	
+.pageleft { display:none;}
+
+.pageright { display:none; }
+
+.pagetopshadow{ display:none; }
+
+.pgheaderimg{ display:none; }
+
+.basebg { background:none;}
+
+.pagebotshadow { display:none; }
+
+#Menu { display:none; }
+
+.BacktoTop { display:none; }
+
+.proCatViewAll { display:none; }
+
+.ViewModel { display:none; }
+
+
+/* Support Section - Print CSS*/
+.SupportbutRt { display:none; }
+
+.SearchbutCenter { display:none; }
+
+.SupportTitWithBut { display:none; }
+
+.SearchbutLeft {	display:none; }
+
+.GoBtn {	display:none; }
+
+.SearchBtn {	display:none; }
+	
+.ChecKButton { display:none; }
+
+.ModelPricebut {display:none;}
+
+.CheckBoxArea {display:none; }
+
+#header {display:none ;}
+
+.Viewlinks {display:none; }
+
+A { border:0px; text-decoration:none; }
+
+/* Start From Global.css*/
+#Footer {display:inline-block; vertical-align:bottom;  bottom: 0px; margin-bottom:0px; padding-bottom:0px; }
+
+#Footer .fttop { padding:0px; width:auto; }
+
+/* .ftleft{display:none; } */
+
+.PrintHeaderSection {display:inline;}
+
+.sonylogowhitebg { display:inline;  float:left; width:300px;   }
+
+.CountryNameText {display:inline; text-align:right;}
+
+.bc { display:none; }
+
+.Popupheaderbrdr { display:none;}
+
+.ShowHide { display:none;}
+
+.Pgheading { margin-bottom:10px; }
+
+.Pgheading h2 { width:500px; }
+/* End From Global.css*/
+
+.ComparePageBg { 
+ width:100%; text-align:left; vertical-align:top;	background-color:#FFFFFF; }
+ 
+.CompareDescRow { 
+	width:auto; text-align:left; vertical-align:top; }
+
+.CompareDescRow img {
+	width:150px; height:1px; border:0px; }
+
+.CompareProRow { 
+	width:auto; }
+
+.CompareProRow img {
+	width:250px; height:1px; border:0px; }
+
+form { 
+	margin:0px; }
+
+.Heading{ 
+	padding-left:5px; font-family:Tahoma; font-size:13px; font-weight:bold; color:#000000; height:25px; text-align:left; vertical-align:middle;}
+
+.SubHeading{ 
+	padding-left:5px; font-family:Tahoma; font-size:12px; font-weight:bold; color:#000000;}
+
+.ProductModelText { 
+	font-family:Tahoma; font-size:11px; font-weight:bold; text-align:left; color:#666666; }
+
+.BlackTxt1 { 
+	font-family:Tahoma; font-size:11px; font-weight:bold; text-align:left; color:#333333; }
+
+.ProductText { 
+	font-family:Tahoma; font-size:11px; font-weight:normal; text-align:left; vertical-align:top; padding:5px 10px 10px 10px; }
+
+.RunTextBgColor1 { 
+	 padding:5px 5px 5px 5px; font-family:Tahoma; font-size:11px; font-weight:normal; text-align:left; vertical-align:top; color:#666666; background-color:#EFEFEF; }
+
+.RunTextBgColor1 A { 
+	border-bottom:dotted 1px #666666; color:#666666; text-decoration:none; }
+
+.RunTextBgColor1 A:hover { 
+	color:#666666; border-bottom:dotted 1px #666666; text-decoration:none; }
+
+.RunTextBgColor2 { 
+	 padding:5px 5px 5px 5px; font-family:Tahoma; font-size:11px; font-weight:normal; text-align:left; vertical-align:top; color:#666666; background-color:#ECF0F4; }
+
+.RunTextBgColor2 A { 
+	border-bottom:dotted 1px #666666; color:#666666; text-decoration:none; }
+
+.RunTextBgColor2 A:hover { 
+	color:#666666; border-bottom:dotted 1px #666666; text-decoration:none;}
+
+
+.ProModelImage { 
+	padding:10px; text-align:center; vertical-align:top;}
+
+.ProModelImage img { 
+	width:100px; height:100px; border:0px; padding:0px 5px 0px 5px;}
+
+.ShowHide {
+	text-align:center; vertical-align:middle }
+
+.ShowHide img { 
+	border:0px; }
+	
+.Viewlinks{
+	margin-bottom:12px; font-size:10px; color:#336699; font-family:Tahoma; text-align:left; vertical-align:top; padding-top:10px;}
+
+.Viewlinks img{
+	border:0px; }
+	
+.Viewlinks A{
+	color:#336699; text-decoration:none;}
+
+.Viewlinks A:hover{
+	color:#336699; text-decoration:underline;}
+
+.Pricetxt{
+	font-family:Tahoma; padding-left:10px; text-align:left; vertical-align:top;}
+
+.Pricetxt H5{
+	font-size:11px; color:#666666; font-weight:normal; margin:0px; border:0px;}
+
+.Pricetxt H4{
+	font-size:11px; color:#000000; font-weight:bold; margin:0px; border:0px;}
+
+.Pricetxt p{
+	font-size:10px; color:#999999; padding-top:2px; margin:0px; border:0px;}
+
+.PriceNotes{
+	clear:both; display:block; overflow:hidden; font-family:Tahoma; font-size:10px; color:#666666; margin-bottom:10px; padding: 0 10 0 10; width:98%; }
+
+.hideLink{
+	display:none; }
+.hide {
+	DISPLAY: none;  }
+
+.border { border-bottom:#bbbbbb solid 1px; border-left:#bbbbbb solid 1px; border-right:#bbbbbb solid 1px;}
+	
+	
+/* Start Tab Layout Styles */
+
+#CompareTabs {
+	display:none;
+}
+
+
+#CompareHideSimilar { width:140px }
+
+.TopPrintButton{
+	display:block;
+	position:relative;
+	width:130px;
+	margin: 0px auto;
+	margin-top: 10px;
+}
+
+.button { display:inline; }
+	
+.buttonEnding { display:inline; }
+	
+.ProdutFaqSearchBlock { display:none;}	
+	
+.prenextlinks { display:none;}
+
+.FaqTutLink{ display:none;}
+	
+.PrintPage{ display:none;}
+
+.PrintButton{
+	width:70px; height:23px; float:left;}
+
+.BackButton{
+	width:50px;	height:23px; float:right;}
+
+#mysony, #procatimgname {display:none;}
+
+body#sony {background:#ffffff !important;}
+
+.FooterFullBleed {display:none;}
+.FullBleedContainer {margin-left:0px; margin-right:0px; width:880px; text-align:left;}
+.FullBleedContainer #PrintHeaderSection, .FullBleedContainer #PrintHeaderSection .logo,
+.FullBleedContainer #PrintHeaderSection .logo .corplogo, .FullBleedContainer #PrintHeaderSection .logo img,
+.FullBleedContainer #PrintHeaderSection .logo .corplogodivided, .FullBleedContainer #PrintHeaderSection .logo .countryname {display:inline-block;}
+.FullBleedContainer #menu{display:none;}
+#PgContent{width:auto !important;}

@@ -1,0 +1,792 @@
+/* Start My Sony CSS */
+#mysony {
+
+	margin-top:0px;
+	margin-bottom:0px;
+    height:43px;
+	background: url(/HP/images/common/mysony_bg1.jpg) repeat-x top right;
+	padding-left:17px;
+	padding-right:0px;
+	position:relative;
+	z-index:19;
+}
+
+.cartleftimg
+{
+    float:left;
+	padding-top:7px;
+}
+
+.cartleft
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;
+    float:left;
+    background: url(/HP/images/common/mysony_bg1.jpg) repeat-x top right;
+    padding-left:0px;
+    padding-right:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+    
+.cartleft img
+{
+    padding-top:1px;
+}
+.cartleft span,
+.cartleft a
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;   
+    text-decoration:none;
+    line-height:43px;
+    padding-left:2px;
+    padding-right:2px;
+}
+.cartleft span
+{
+  color:#000;   
+}
+.cartleft a
+{
+  color:#0066cc;   
+  text-decoration:none;
+}
+.cartleft a:visited
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;    
+    text-decoration:none;
+}
+.cartleft a:hover
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;
+    text-decoration:underline;
+}
+
+.cartleftspacer
+{
+    padding-left:5px;
+    padding-right:0px;
+    float:left;
+    line-height:43px;
+    background: url(/HP/images/common/mysony_bg1.jpg) repeat-x top right;
+}
+
+
+
+
+.cartlogout {
+    float:right;
+}
+.cartlogout a
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px !important;
+    line-height:43px;
+	color:#0066cc !important;
+}
+
+
+
+
+.cartright
+{
+    float:right;
+    height:43px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    cursor:pointer;
+}
+
+.carttransition
+{
+    width:37px;
+    height:43px;
+    background-image: url(/HP/images/common/mysony_cart_right.jpg) ;
+    background-position: left top;
+
+}
+
+.cartright_sonystyle
+{
+    height:43px;
+    float:right;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    padding-left:0px;
+	padding-right:0px;
+    cursor:pointer;
+    margin-right:0x;
+}
+.cartright_sonystyle img
+{
+   margin-top:1px;
+    
+}
+
+.cartright_divider
+{
+    height:43px;
+    float:right;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    cursor:pointer;
+    padding-right:12px;
+
+}
+.cartright_divider img
+{
+    margin-top:8px;
+    padding-left:5px;
+    padding-right:5px;
+    display:none;
+	
+} 
+.cartright_carticon
+{
+    height:43px;
+    float:right;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    padding-right:14px;
+	padding-left:5px;
+    cursor:pointer;
+}
+.cartright_carticon img
+{
+    margin-top:8px;
+}
+
+.cartright_noitem
+{
+    float:right;
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-size:10px;*/
+    color:#000000;    
+    line-height:43px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    cursor:pointer;
+	vertical-align:middle;
+}
+.cartright_noitem text
+{
+	
+    cursor:pointer;
+}
+.cartright_itemdivider
+{
+    float:right;
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-size:10px;*/
+    color:#000000;
+    line-height:43px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    padding-left:5px;
+    padding-right:5px;
+    cursor:pointer;
+}
+
+.cartright_carttotal
+{
+    float:right;
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-size:10px;*/
+    color:#000000;
+    line-height:43px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left; 
+	vertical-align:middle;
+    cursor:pointer; 
+}
+
+cartright_carttotal a{
+	font-size:10px;
+	text-decoration:none;
+	color:#0066CC;
+}
+
+cartright_carttotal a:visited{
+	font-size:10px;
+	text-decoration:none;
+	color:#0066CC;
+}
+
+cartright_carttotal a:hover{
+	font-size:10px;
+	text-decoration:underline;
+	color:#0066CC;
+}
+
+
+.cartright_expcartbtn
+{
+    height:43px;
+    float:right;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    padding-left:10px;
+    cursor:pointer;
+}
+
+.cartright_expcartbtn img
+{
+    padding-top:14px;
+}
+
+.cartright_end
+{
+    height:43px;
+    float:right;
+    width:17px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;   
+    cursor:pointer;
+}holderbottomright
+
+#scrollarea .rounded {
+	padding-top:0px; margin-top:4px; margin-bottom:4px;margin-left:0px; margin-right:0px; background-color:#ffffff;}
+
+#scrollarea .rc-border{
+	border-right: #aeaeae 0px solid; border-top: #aeaeae 1px solid; border-left: #aeaeae 0px solid; border-bottom: #aeaeae 1px solid;}
+
+#scrollarea .border-inner {
+	border-right: #aeaeae 1px solid; border-top: #aeaeae 0px solid; border-left: #aeaeae 1px solid; border-bottom: #aeaeae 0px solid;}
+
+
+#scrollarea
+{
+
+	font-size:0px;
+}
+
+
+#scrollarea .scroll-pane 
+{
+	position:relative;
+	height:150px;
+	background-color:#ffffff;	
+    overflow:auto;
+    width:300px;
+	float:none;
+	clear:both;
+
+}
+
+
+.scroll-pane  .itemimage
+{
+    float:left;
+    vertical-align:middle;
+    width:70px;
+    display:inline-block;
+    margin-left:0px;
+}
+.scroll-pane .itemdesc
+{
+    float:left;
+
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:10px;
+    color:#000000;
+    display:inline-block;
+    border:0px black solid;
+    height:auto;
+    margin-right:0px;
+    width:45%;
+
+}
+.scroll-pane .cartitemdivider
+{
+    float:left;
+    height:1px;
+    background-color:#dddddd;
+    margin-bottom:5px;
+    margin-top:0px;
+    width:80%;
+}
+
+
+.itemdesc .cartitemseries
+{
+    float:left;
+    clear:left;
+	/*font-size:12px;*/
+	font-weight:bold;
+	color:#408CD8;
+}
+
+.itemdesc .cartitemseries a
+{
+    float:left;
+    clear:left;
+	/*font-size:12px;*/
+	font-weight:bold;
+	color:#408CD8;
+}
+
+.itemdesc .cartitemseries a:visited
+{
+    float:left;
+    clear:left;
+	/*font-size:12px;*/
+	font-weight:bold;
+	color:#408CD8;
+}
+
+.itemdesc .cartitemseries a:hover
+{
+    float:left;
+    clear:left;
+	/*font-size:12px;*/
+	font-weight:bold;
+	color:#408CD8;
+}
+
+.itemdesc .cartitemtext
+{ 
+    float:left;
+    clear:left;
+    display:inline-block;
+}
+
+
+.itemdesc .cartitemboldtext
+{
+    float:left;
+    clear:left;
+    font-weight:bold;
+    color:#000000;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+#contenttextarea .rounded {
+	padding-top:0px; margin-top:4px; margin-bottom:4px;margin-left:0px; margin-right:0px; background-color:#ffffff;}
+
+#contenttextarea .rc-border{
+	border-right: #aeaeae 0px solid; border-top: #aeaeae 1px solid; border-left: #aeaeae 0px solid; border-bottom: #aeaeae 1px solid;}
+
+#contenttextarea .border-inner {
+	border-right: #aeaeae 1px solid; border-top: #aeaeae 0px solid; border-left: #aeaeae 1px solid; border-bottom: #aeaeae 0px solid;}
+
+
+#contenttextarea .carttotalarea
+{
+    background-color:#d2d2d2;
+    height:17px;
+    padding-top:0px;
+    padding-bottom:0px;
+    
+
+}
+
+.ShoppingCartBtn {
+ width:120px;
+ margin-left: 78px;
+}
+
+.ECommerceCartCheckOutBtn{
+	width:120px;
+	/*height:23px;*/
+	margin:0px auto;
+}
+
+
+.carttotalarea .checkoutbnt
+{
+    padding-top:7px;
+    text-align:center;
+	width:60px;
+}
+.carttotalarea .content
+{
+    background-color:#ffffff;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:12px;
+    padding-right:16px;
+    margin-top:0px;
+    margin-bottom:0px;
+    height:17px;
+    font-family: Arial, Helvetica, sans-serif; 
+	font-size:10px;
+	color:#000000;
+
+}
+
+
+.content .subtotal
+{
+	float:right;
+    font-weight:bold;
+    padding-right:0px;
+}
+
+
+.content .subtotallabel
+{
+    float:left;
+    padding-left:0px;
+
+}
+
+
+ .cartbuttonarea
+{
+    padding-top:0px;
+    padding-bottom:0px;
+    background-color:#d2d2d2;
+
+    text-align:center;
+    margin:0px;
+    font-size:0px;
+}
+      
+	            
+
+.holderouter
+{
+    visibility:hidden;
+    background-color:transparent;
+    left:-2000px;
+    top:-2000px;
+    z-index:1001;
+    position:absolute;
+    font-size:0px;
+}
+
+ .holder
+{
+    background-color:#d2d2d2;
+    padding:10px 10px 0px 10px;
+    
+    border-left:1px solid #aeaeae;
+    border-right:1px solid #aeaeae;
+    border-top: 1px solid #aeaeae;
+}
+             
+ .sonycart{
+ 	position:absolute;
+	top:43px;
+ }           
+            
+
+.sonycart .jScrollPaneTrack {
+	background: url(/HP/images/layout/default/cartscroll_bg.jpg) repeat-y;
+}
+.sonycart .jScrollPaneDrag {
+	background: url(/HP/images/layout/default/slider.jpg) repeat-y;
+}
+.sonycart .jScrollPaneDragTop {
+	background: url(/HP/images/layout/default/cartscroll_bartop.jpg) no-repeat;
+
+	height: 3px;
+}
+.sonycart .jScrollPaneDragBottom {
+	background: url(/HP/images/layout/default/cartscroll_barbottom.jpg) no-repeat;
+	height: 3px;
+}
+.sonycart a.jScrollArrowUp {
+	height: 20px;
+					border:0px red solid;
+	background: url(/HP/images/layout/default/cartscroll_up.jpg) no-repeat 0;
+}
+.sonycart a.jScrollArrowUp:hover {
+	background-position: 0 0;
+}
+.sonycart a.jScrollArrowDown {
+	height: 18px;
+	background: url(/HP/images/layout/default/cartscroll_down.jpg) no-repeat 0 ;
+}
+.sonycart a.jScrollArrowDown:hover {
+	background-position: 0 0;
+}
+
+.left .jScrollPaneTrack {
+	left: 0;
+	right: auto;
+}
+.left a.jScrollArrowUp {
+	left: 0;
+	right: auto;
+}
+.left a.jScrollArrowDown {
+	left: 0;
+	right: auto;
+}
+
+
+
+
+
+
+
+
+
+/* IE SPECIFIC HACKED STYLES */
+* html .sonycart .jScrollPaneDragBottom {
+	bottom: -1px;
+}
+/* /IE SPECIFIC HACKED STYLES */
+			
+			
+.holderbottomleft
+{
+	font-size:0px;
+	float:left;
+	border:0px red solid;
+	height:5px;
+	width:5px;
+	background-color:transparent;
+	background: url(/HP/images/layout/default/cartbottom_left_corner.png) no-repeat bottom left;
+}
+.holderbottomright
+{
+	font-size:0px;
+	float:right;
+	clear:none;
+	border:0px blue solid;
+	height:5px;
+	width:5px;
+	background-color:transparent;
+	background: url(/HP/images/layout/default/cartbottom_right_corner.png) no-repeat bottom right;
+}
+
+ .holderbottommiddle
+{
+	font-size:0px;
+	float:left;
+	clear:none;
+	height:5px;
+	background-color:#d2d2d2;
+	border-bottom:1px solid #aeaeae;
+	
+   
+}
+
+
+/* ISAP added 16 March 2009 */
+
+#mysony img { border: 0px; }
+
+
+.cartright_noitem a{
+        font-size:10px;
+        text-decoration:none;
+        color:#0066CC;
+}
+
+.cartright_noitem a:visited{
+        font-size:10px;
+        text-decoration:none;
+        color:#0066CC;
+}
+
+.cartright_noitem a:hover{
+        font-size:10px;
+        text-decoration:underline;
+        color:#0066CC;
+}
+
+#TB_ajaxContent .BodyText{
+	font-size:11px;
+	*padding-left:15px;
+}
+
+#mysony .BodyText{
+	font-size:11px;
+}
+
+
+#mysony .BodyText a{
+	font-size:11px;
+	text-decoration:none;
+	color: #0066CC;
+}
+
+
+#mysony .BodyText a:visited{
+	font-size:11px;
+	text-decoration:none;
+	color: #0066CC;
+}
+
+
+#mysony .BodyText a:hover{
+	font-size:11px;
+	text-decoration:underline;
+	color: #0066CC;
+}
+
+
+#mysony .LargeText{
+	font-size:13px;
+}
+
+
+#mysony .LargeText a{
+	font-size:13px;
+	text-decoration:none;
+}
+
+
+
+
+#mysony .LargeText a:visited{
+	font-size:13px;
+	text-decoration:none;
+}
+
+
+#mysony .LargeText a:hover{
+	font-size:13px;
+	text-decoration:underline;
+}
+
+
+#mysony .SmallText{
+	font-size:10px;
+}
+
+
+#mysony .SmallText a{
+	font-size:10px;
+	text-decoration:none;
+	color:#0066CC;
+}
+
+#mysony .SmallText a:hover{
+	font-size:10px;
+	text-decoration:Underline;
+	color:#0066CC;
+}
+
+
+#TB_ajaxContent div.tabled_label_input th,
+#TB_ajaxContent div.tabled_label_input td {
+  Text-align:left;
+}
+
+
+#TB_ajaxContent ol, #TB_ajaxContent ul {list-style:none;}
+
+
+.loginsection1 .sectionactionbutton .section1action a,
+.loginsection1 .sectionactionbutton .section1action a:hover, 
+.loginsection1 .sectionactionbutton .section1action a:visited {
+color:#0066CC; text-decoration:none;
+}
+
+.errmsg {
+	height:300px;
+	font-size:16px;
+	margin-top:65px;
+}
+/**/			
+
+/* start - date : 16 oct 2009,Pratibha */
+
+/*start - check out alignment*/
+.checkOut{padding-top:10px;*line-height:10px;*padding-left:5px;*padding-right:10px;}
+html>body .checkOut{padding:0 5px;}
+
+html>body .checkOut img {
+margin-top:10px;
+}
+/*end - check out alignment*/
+
+.addCartMainDiv{padding-bottom:6px;}
+.addCartMainDivErrMsg{color:blue;font-size:11px;padding-left:10px;float:right;width:140px;}
+
+/* end - date : 16 oct 2009 */
+
+/*start - date : 6 Nov 2009, Pratibha, Satish's changes */
+.errmsg-jboss{width: 400px; text-align: center; margin-top: 20px;color:#4171A1;
+font-family:Arial,Helvetica,sans-serif;
+font-size:16px;font-weight:bold;padding:10px 0px;border:1px solid #666666;}
+
+.errmsg-jboss p {color:#666666;
+font-family:Arial,Helvetica,sans-serif;
+font-size:12px;}
+/* end - date : 6 Nov 2009 */
+
+/* start - date : 10 Nov 2009, Sanket  */
+/* Mindtree changes - SNZ transaction bar component alignment */
+
+#mysony .cartleft_snz
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;
+    float:left;
+    background: url(/HP/images/common/mysony_bg1.jpg) repeat-x top right;
+    padding-left:0px;
+    padding-right:0px;
+    margin-left:0px;
+    margin-right:0px;
+	height:43px;
+}
+
+#mysony .cartleft_snz a
+{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size:11px;
+    color:#0066cc;   
+    text-decoration:none;
+    line-height:43px;
+    padding-left:5px;
+    padding-right:0px;
+}
+
+#mysony .cartleft_snz img
+{
+    margin-top:7px;
+}
+
+#mysony .cartright_carticon_snz
+{
+    height:43px;
+    float:right;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left;
+    padding-right:14px;
+	padding-left:5px;
+    cursor:pointer;
+}
+
+
+#mysony .cartright_carticon_snz img
+{
+    margin-top:14px;
+}
+
+/* end - date : 10 Nov 2009, Sanket  */
+/* Mindtree changes - SNZ transaction bar component alignment */
+
+/*Space between the logout and checkout links for SZN, 16 Nov 09, Pratibha*/
+.cartright_carttotal_snz
+{
+    float:right;
+    font-family: Arial, Helvetica, sans-serif; 
+    /*font-size:10px;*/
+    color:#000000;
+    line-height:43px;
+    background: url(/HP/images/common/mysony_bg2.jpg) repeat-x top left; 
+	vertical-align:middle;
+    cursor:pointer; 
+    *padding-left:10px;
+}
+html>body .cartright_carttotal_snz{padding-left:6px;}
+
+.addCartDiv{width:270px;}
+html>body .addCartDiv{padding-bottom:20px;}
+.addCartMainDivLeft{float:left;}
+/*end Space between....*/
+
+
+#mysony .cartright_noitem a:hover div, 
+#mysony .cartright_noitem a:hover,
+#mysony .cartright_carttotal a:hover div,
+#mysony .cartright_carttotal a:hover
+{
+	text-decoration: underline !important;
+	color: #0066cc !important;
+}
